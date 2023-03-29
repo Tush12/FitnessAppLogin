@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "689457486073",
+    "project_id": "fitness-app-fb20f",
+    "storage_bucket": "fitness-app-fb20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689457486073:android:6c1db5a19009c8561d2a28",
+        "android_client_info": {
+          "package_name": "com.example.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689457486073-ulkv61hb22rnj13of2ehalk0231ehjat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbIdCmuXuDcStFgaCxbWHBTb1H8q61RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689457486073-ulkv61hb22rnj13of2ehalk0231ehjat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689457486073:android:9acc1f6836d9a0291d2a28",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689457486073-h5e7tt21vod3es27jju5nbip81hpg4hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signuploginfirebase",
+            "certificate_hash": "d773cf9a80d030f36e068cf901318dffc8b9ee20"
+          }
+        },
+        {
+          "client_id": "689457486073-ulkv61hb22rnj13of2ehalk0231ehjat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtbIdCmuXuDcStFgaCxbWHBTb1H8q61RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689457486073-ulkv61hb22rnj13of2ehalk0231ehjat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
